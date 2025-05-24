@@ -4,3 +4,4 @@ Type=Application
 Name=Wayfarer Screen Recorder
 Exec=wayfarer
 Icon=wayfarer
+Categories=GTK;AudioVideo;Video;Utility;Multimedia;Recorder;
